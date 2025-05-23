@@ -15,7 +15,8 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 | Aulas | Resumos |
 | ------| ------- |
-| Gravando Alterações no Repositório Local | [Resumo](https://web.dio.me/track/wex-end-end-engineering/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1)
+| Aula 01 | [Resumo]() |
+| Aula 02 | [Resumo]() |
 
 ``` 
 git init
